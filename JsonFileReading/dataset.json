@@ -1,0 +1,14 @@
+{
+    "weather":[
+        {
+            "temp":38,
+            "highest_temp":56,
+            "place":"Raichur"
+        },
+        {
+            "temp":36,
+            "highest_temp":48,
+            "place":"Banglore"
+        }
+    ]
+}
